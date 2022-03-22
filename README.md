@@ -18,7 +18,7 @@ Para entrar digitamos o comando abaixo:
 <h3>Passo 3</h3> Pronto, já estamos dentro do diretório \lpm-noite, agora vamos criar nosso diretório de trabalho.
 Para isso digitamos a linha de comando abaixo:
 
-<h4>npm install aula5               // com esse comando, fazemos a instalação dos arquivos necessários para o trabalho inicial</br></h4>
+<h4>expo init aula5               // com esse comando, fazemos a instalação dos arquivos necessários para o trabalho inicial</br></h4>
 </br>
 
 <h3>Passo 4</h3> Aguarde alguns segundos e já estará criado nosso diretório de trabalho.
